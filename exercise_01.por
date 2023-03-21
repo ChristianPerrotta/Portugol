@@ -1,5 +1,5 @@
-#PT-BR: lê um nome e responde com uma mensagem de boas vindas
-#EN: reads a name and replies with a welcome message
+//PT-BR: lê um nome e responde com uma mensagem de boas vindas
+//EN: reads a name and replies with a welcome message
 
 programa
 {
